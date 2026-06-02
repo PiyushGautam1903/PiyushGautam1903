@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Gautam</h1>
-<h3 align="center">Pre-Final Year Engineering student | Tech Explorer | Future Software Craftsman</h3>
+<h3 align="center">Final Year Engineering student | Tech Explorer | Future Software Craftsman</h3>
 
 - 🌱 I’m currently learning **Advanced Data Structures and Algorithm, Backend Development using Python**
 
